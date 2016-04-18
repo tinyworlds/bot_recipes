@@ -10,6 +10,7 @@ With this module, you can get instructions for sweet/sour recipes, which are ric
 3. Add something sour
   
 So the sweet food contrasts the sour here and the crunchy the soft.  
+And sour/acidic ingredients are generelly said to bring out the flavor of your food!  
 Easy, right? And it's usually pretty tasty :)
   
 ###Cookie module
