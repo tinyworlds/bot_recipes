@@ -1,5 +1,5 @@
 {
-	"origin": ["1. #sweetcrispy#\n2. #sweetsoft#\n3. Mix everything and add #some# #sour#.", "1. Mash 2 bananas\n2. Mix them with 2 cups of oatmeal\n3. Add #cookiestuff# and some #cookiestuff#\n4. Bake for 15min at 150°C", "KITCHEN-TIP: #kitchentip#"],
+	"origin": ["1. #sweetcrispy#\n2. #sweetsoft#\n3. Mix everything and add #some# #sour#.\n#emojis##emojis##emojis#", "1. Mash 2 bananas\n2. Mix them with 2 cups of oatmeal\n3. Add #cookiestuff# and some #cookiestuff#\n4. Bake for 15min at 150°C\n#emojis##emojis##emojis#", "KITCHEN-TIP: #kitchentip#\n#emojis##emojis##emojis#"],
 	
 	"sweetcrispy":["Bake sweet potato fries", "Bake cauliflower", "Bake some champignons until crispy", "Dissect a zuccini into little noodles", "Bake some broccoli until crispy", "Prepare some carrots"],
 	"sweetsoft":["Fry some tomatoes", "Fry some champignons", "Cook some asparagus", "Cook some gnocci", "Cook some noodles", "Bake some cashew nuts until they are crispy", "Bake some pine nuts until they get brown", "Add some sesame seeds", "Add some sun-dried tomatoes", "Add some lettuce", "Add some raddish"],
@@ -10,6 +10,8 @@
 
 	"cookiestuff":["cranberries", "raisins", "cacao powder", "chocolate bits", "almonds", "walnuts", "hazelnuts", "cinnamon", "apple bits", "blueberries"],
 
-	"kitchentip":["You can boil water faster using an electric kettle!", "Prepare double the amount you eat and save the rest for another day - great timesaver!", "Freeze soup in bulk to have a quick meal for later", "Don't forget to put a lid on your pot when cooking - it prevents heat loss!", "Be creative!", "Have fun!", "Recipes are only a guideline", "Taste as you go!", "Add a bit of lemon juice to broccoli or asparagus so they keep their beautiful green", "Grow fresh herbs in pots right in your kitchen", "Clean as you go", "Cook with other people who want to learn or who know how to cook", "Always start with a smokin' hot pan!"]
+	"kitchentip":["You can boil water faster using an electric kettle!", "Prepare double the amount you eat and save the rest for another day - great timesaver!", "Freeze soup in bulk to have a quick meal for later", "Don't forget to put a lid on your pot when cooking - it prevents heat loss!", "Be creative!", "Have fun!", "Recipes are only a guideline", "Taste as you go!", "Add a bit of lemon juice to broccoli or asparagus so they keep their beautiful green", "Grow fresh herbs in pots right in your kitchen", "Clean as you go", "Cook with other people who want to learn or who know how to cook", "Always start with a smokin' hot pan!"],
+
+	"emojis":["🌸", "🏵", "🌺", "☘", "🍀", "🌿", "👑", "💚", "❣"]
 
 }
