@@ -1,4 +1,5 @@
-A Twitter bot generating simple Vegan recipes: https://twitter.com/bot_recipes  
+![avatar](http://orig07.deviantart.net/bc66/f/2016/109/c/1/_rs8jrcl100_by_rick_tinyworlds-d9zighg.jpg)[@bot_recipes](https://twitter.com/bot_recipes)  
+"I'm a text bot generating vegan recipes to inspire you"
   
 ##How It Works
 
