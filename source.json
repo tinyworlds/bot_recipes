@@ -1,5 +1,9 @@
 {
-	"origin": ["1. #sweetcrispy#\n2. #sweetsoft#\n3. Mix everything and add #some# #sour#.\n#emojis##emojis##emojis#", "1. Mash 2 bananas\n2. Mix them with 2 cups of oatmeal\n3. Add #cookiestuff# and some #cookiestuff#\n4. Bake for 15min at 150°C\n#emojis##emojis##emojis##cookieimage#", "KITCHEN-TIP: #kitchentip#\n#emojis##emojis##emojis#", "#hungry# #emojis##foodimage#", "#bagel#"],
+	"origin": ["#recipe#", "#image#", "#cookie#"],
+
+	"recipe":["1. #sweetcrispy#\n2. #sweetsoft#\n3. Mix everything and add #some# #sour#.\n#emojis##emojis##emojis#"],
+	"cookie": [ "1. Mash 2 bananas\n2. Mix them with 2 cups of oatmeal\n3. Add #cookiestuff# and some #cookiestuff#\n4. Bake for 15min at 150°C\n#emojis##emojis##emojis##cookieimage#"],
+	"image":["KITCHEN-TIP: #kitchentip#\n#emojis##emojis##emojis#", "#hungry# #emojis##foodimage#", "#bagel#"],
 	
 	"sweetcrispy":["Bake sweet potato fries", "Bake cauliflower", "Bake some champignons until crispy", "Dissect a zuccini into little noodles", "Bake some broccoli until crispy", "Prepare some carrots"],
 	"sweetsoft":["Fry some tomatoes", "Fry some champignons", "Cook some asparagus", "Cook some gnocci", "Cook some noodles", "Bake some cashew nuts until they are crispy", "Bake some pine nuts until they get brown", "Add some sesame seeds", "Add some sun-dried tomatoes", "Add some lettuce", "Add some raddish"],
