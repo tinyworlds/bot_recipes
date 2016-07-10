@@ -11,9 +11,9 @@
 	"allfood":["#recipe#", "#cookie#", "#bagel#", "#smoothie#"],
 	"recipe":["1. #recipesweetcrispy#\n2. #recipesweetsoft#\n3. Mix everything and add #some# #recipesour#."],
 	"bagel":["Make #nice.a# #bageltype# with #bagelsauce#, #bagelveggies# and #bagelveggies#.\nYour ✨special✨ ingredient is: #bagelspecial#"],
-	"smoothie":["Make #nice.a# smoothie using #smoothiefruit# and #smoothiefruit#.\nYour ✨special✨ ingredient is: #smoothiespecial#", "Make #nice.a# smoothie using #smoothiefruit#, #smoothiefruit# and #smoothiefruit#."],
+	"smoothie":["Make #nice.a# smoothie using #smoothiefruit# and #smoothiefruit#\nYour ✨special✨ ingredient is: #smoothiespecial#", "Make #nice.a# smoothie using #smoothiefruit#, #smoothiefruit# and #smoothiefruit#", "Make #nice.a# smoothie using #smoothiefruit#, #smoothiefruit# and #smoothiefruit# #smoothieimage#"],
 	"cookie": [ "1. Mash 2 bananas\n2. Mix them with 2 cups of oatmeal\n3. Add #cookiestuff# and some #cookiestuff#\n4. Bake for 15min at 150°C#cookieimage#"],
-	"inspiration":["KITCHEN-TIP: #kitchentip#"],
+	"inspiration":["KITCHEN-TIP: #kitchentip#", "TWEET THOSE WORDS AT ME AND I'LL GIVE YOU A RECIPE:\ncookie, food, bagel, sandwich or smoothie"],
 	
 
 
@@ -32,8 +32,9 @@
 
 
 	"smoothiefruit":["banana 🍌", "cherry 🍒", "strawberry 🍓", "orange 🍊", "grape 🍇", "apple 🍎", "peach 🍑", "carrot", "lemon 🍋", "pear 🍐"],
-	"smoothiespecial":["coffee ☕", "peanut butter", "cornflakes", "#smoothiefruit# jam", "#smoothiefruit# juice", "lemonade", "chocoloate 🍫", "#cookiestuff#"],
-
+	"smoothiespecial":["coffee ☕", "peanut butter", "cornflakes", "#smoothiefruit# jam", "#smoothiefruit# juice", "lemonade", "chocoloate 🍫", "#cookiestuff#", "almond milk", "oats milk"],
+	"smoothieimage":["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"800\" height=\"500\"><image x=\"0\" y=\"0\" width=\"800px\" height=\"500px\" xlink:href=\"#smoothieimages#\" /></svg>}", ""],
+	"smoothieimages":["http://orig02.deviantart.net/2f4f/f/2016/192/6/9/pexels_photo_103566_by_rick_tinyworlds-da9lzll.jpg", "http://orig00.deviantart.net/4e6e/f/2016/192/a/6/food_healthy_fruits_kitchen_by_rick_tinyworlds-da9m0is.jpg", "http://orig07.deviantart.net/efea/f/2016/192/1/6/photo_1438907046657_4ae137eb8c5e_by_rick_tinyworlds-da9m0i5.jpg", "http://orig08.deviantart.net/5ae1/f/2016/192/6/7/pexels_photo_87583_by_rick_tinyworlds-da9m0hp.jpg", "http://orig14.deviantart.net/2877/f/2016/192/0/6/fruit_food_healthy_fresh_53130_by_rick_tinyworlds-da9m0hi.jpg"],
 
 
 	"cookiestuff":["cranberries", "raisins", "cacao powder", "chocolate bits 🍫", "almonds", "walnuts", "hazelnuts", "cinnamon", "apple bits", "blueberries"],
