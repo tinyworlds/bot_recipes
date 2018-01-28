@@ -1,48 +1,8 @@
 {
-	"origin": ["#recipe#", "#inspiration#", "#cookie#", "#bagel#", "#smoothie#", "IDEA OF THE DAY:\n#allfood#", "TRY THIS OUT:\n#allfood#", "TODAY TRY THIS OUT:\n#allfood#"],
+	"origin": ["KITCHEN TIP:\n#tip.capitalize#"],
 
+	"tip":["#kitchen_basics_video#", "get a honing steel to keep your knifes sharp, it makes a huge difference\n🔪", "prepare some extra food, to have something for later", "roasting veggies in the oven makes them sweet and crunchy - pre-heat to 250°C/450F and cook for about 12min, then turn and cook the other side for 5 more min\n🔥 ", "instead of many utensils, invest in getting good ones", "a food processor is a vegan's best friend - you need it for so many recipes", "garlic in powdered form is easier to digest", "you can make your own plant milk very easily - it's way cheaper then buying it pre-made: https://simpleveganblog.com/9-easy-plant-milk-recipes/", "cress seeds are really easy to grow and great for soups and sandwiches \n🌱", "if you soak chia seeds over-night in water, they create a jelly which can be used e.g. for vegan pudding: https://simpleveganblog.com/4-ingredient-chocolate-chia-pudding/", "put everything you need out beforehand to avoid stress when cooking", "save some easy, quick recipes to make when you're feeling too lazy", "fresh herbs and good spices can make a huge difference", "you can re-grow pretty much any veggie you buy at the store (look for some videos on how to)", "consider making your own tea and jams, it's great fun", "always taste your food before serving", "clean the edge of the dish after putting on the food for a more professional presentation\n🍽️", "clean as you go, nobody wants to do chores with a full tummy", "cut your veggies before starting to cook, it makes things less stressful", "there are many other ways to prepare veggies instead of cooking, e.g. steaming or sauteing", "many dry foods, such as beans or rice last virtually forever (30+ years), as well as canned things", "take a re-usable bag with you and put veggies in there - it avoids unnecessary waste", "roast your veggies with some soy sauce or curry powder to add a lot of flavor", "toast your bread to level up your sandwiches\n🍞🔥", "olive oil and lemon juice make a great combo for roasted veggies, salads, etc. \n🍋", "you can add a bit of sugar to balance spiciness or acidity", "rice with veggies, pasta, smoothies and soups are all easy recipes you can easily modify"],
 
-	"some":["a bit of", "some"],
-	"nice":["tasty", "crispy", "delicious", "aromatic", "flavorful", "special"],
-	"emojiface":["😊", "😀", "☺️", "😉", "😄", "😘", "😇", "🤔", "😜", "😈"],
-
-
-
-	"allfood":["#recipe#", "#cookie#", "#bagel#", "#smoothie#"],
-	"recipe":["1. #recipesweetcrispy#\n2. #recipesweetsoft#\n3. Mix everything and add #some# #recipesour#."],
-	"bagel":["Make #nice.a# #bageltype# with #bagelsauce#, #bagelveggies# and #bagelveggies#.\nYour ✨special✨ ingredient is: #bagelspecial#"],
-	"smoothie":["Make #nice.a# smoothie using #smoothiefruit# and #smoothiefruit#\nYour ✨special✨ ingredient is: #smoothiespecial#", "Make #nice.a# smoothie using #smoothiefruit#, #smoothiefruit# and #smoothiefruit#", "Make #nice.a# smoothie using #smoothiefruit#, #smoothiefruit# and #smoothiefruit# #smoothieimage#"],
-	"cookie": [ "1. Mash 2 bananas\n2. Mix them with 2 cups of oatmeal\n3. Add #cookiestuff# and some #cookiestuff#\n4. Bake for 15min at 150°C#cookieimage#"],
-	"inspiration":["KITCHEN-TIP: #kitchentip#", "TWEET THOSE WORDS AT ME AND I'LL GIVE YOU A RECIPE:\ncookie, food, bagel, sandwich or smoothie"],
-	
-
-
-
-	"recipesweetcrispy":["Bake sweet potato fries", "Bake cauliflower", "Bake some champignons until crispy", "Dissect a zuccini into little noodles", "Bake some broccoli until crispy", "Prepare some carrots"],
-	"recipesweetsoft":["Fry some tomatoes", "Fry some champignons", "Cook some asparagus", "Cook some gnocci", "Cook some noodles", "Bake some cashew nuts until they are crispy", "Bake some pine nuts until they get brown", "Add some sesame seeds", "Add some sun-dried tomatoes", "Add some lettuce", "Add some raddish"],
-	"recipesour":["balsamic vinegar", "lemon juice", "orange juice", "soy sauce", "apple bits", "vinegar"],
-
-	
-
-	"bageltype":["bagel", "sandwich", "baguette"],
-	"bagelveggies":["tomatoes 🍅", "lettuce 🍃", "rocket salad", "lamb's lettuce 🌱", "hot peppers 🌶", "bell peppers" ,"olives", "cabbage", "carrots", "horseradish", "mushrooms 🍄"],
-	"bagelsauce":["mustard", "tomato pesto", "pesto", "ketchup", "honey mustard", "tomato purée"],
-	"bagelspecial":["chilli sauce 🌶", "hot peppers 🌶", "apple bits 🍎", "soy sauce", "cornflakes", "#cookiestuff#", "#bagelveggies#", "grapes 🍇", "lime 🍋", "mango", "strawberries 🍓", "basil", "oregano", "mint", "rosemary", "cinnamon", "ginger", "sesame", "water melon 🍈", "banana 🍌", "sprouts 🌱", "orange 🍊"],
-
-
-
-	"smoothiefruit":["banana 🍌", "cherry 🍒", "strawberry 🍓", "orange 🍊", "grape 🍇", "apple 🍎", "peach 🍑", "carrot", "lemon 🍋", "pear 🍐"],
-	"smoothiespecial":["coffee ☕", "peanut butter", "cornflakes", "#smoothiefruit# jam", "#smoothiefruit# juice", "lemonade", "chocoloate 🍫", "#cookiestuff#", "almond milk", "oats milk"],
-	"smoothieimage":["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"800\" height=\"500\"><image x=\"0\" y=\"0\" width=\"800px\" height=\"500px\" xlink:href=\"#smoothieimages#\" /></svg>}", ""],
-	"smoothieimages":["http://orig02.deviantart.net/2f4f/f/2016/192/6/9/pexels_photo_103566_by_rick_tinyworlds-da9lzll.jpg", "http://orig00.deviantart.net/4e6e/f/2016/192/a/6/food_healthy_fruits_kitchen_by_rick_tinyworlds-da9m0is.jpg", "http://orig07.deviantart.net/efea/f/2016/192/1/6/photo_1438907046657_4ae137eb8c5e_by_rick_tinyworlds-da9m0i5.jpg", "http://orig08.deviantart.net/5ae1/f/2016/192/6/7/pexels_photo_87583_by_rick_tinyworlds-da9m0hp.jpg", "http://orig14.deviantart.net/2877/f/2016/192/0/6/fruit_food_healthy_fresh_53130_by_rick_tinyworlds-da9m0hi.jpg"],
-
-
-	"cookiestuff":["cranberries", "raisins", "cacao powder", "chocolate bits 🍫", "almonds", "walnuts", "hazelnuts", "cinnamon", "apple bits", "blueberries"],
-	"cookieimage":["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"800\" height=\"500\"><image x=\"0\" y=\"0\" width=\"800px\" height=\"500px\" xlink:href=\"#cookieimages#\" /></svg>}", ""],
-	"cookieimages":["http://orig00.deviantart.net/1271/f/2016/109/a/1/cookies1_by_rick_tinyworlds-d9ziu09.jpg"],
-
-
-
-	"kitchentip":["You can boil water faster using an electric kettle!", "Prepare double the amount you eat and save the rest for another day - great timesaver!", "Freeze soup in bulk to have a quick meal for later", "Don't forget to put a lid on your pot when cooking - it prevents heat loss!", "Be creative!", "Have fun!", "Recipes are only a guideline", "Taste as you go!", "Add a bit of lemon juice to broccoli or asparagus so they keep their beautiful green", "Grow fresh herbs in pots right in your kitchen", "Clean as you go", "Cook with other people who want to learn or who know how to cook", "Always start with a smokin' hot pan!"]
+	"kitchen_basics_video":["how to cook the perfect pasta: https://www.youtube.com/watch?v=UYhKDweME3A", "how to chop an onion: https://www.youtube.com/watch?v=dCGS067s0zo", "how to cut a bell pepper: https://www.youtube.com/watch?v=hZGqtmwboHU", "how to cook perfect rice: https://www.youtube.com/watch?v=Jf75I9LKhvg"]
 
 }
